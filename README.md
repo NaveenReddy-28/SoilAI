@@ -68,15 +68,7 @@ PDF report saved to Soil_Report.pdf
 
 ---
 
-## 📸 Screenshots
 
-*(Add screenshots here if you’d like.)*
-
----
-
-## 📄 [View Example PDF Report](Soil_Report.pdf)
-
----
 
 ## ✨ Future Improvements
 
